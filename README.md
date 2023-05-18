@@ -1,1 +1,1 @@
-# This is a blank repository
+# This is a blank repository.
